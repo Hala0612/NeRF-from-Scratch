@@ -41,3 +41,13 @@ generates new viewpoints never seen during training.
 Inspired by the course of Maxime Vandegar
 
 ## Requirements
+torch
+numpy
+imageio
+tqdm
+trimesh
+mcubes
+scikit-image
+open3d
+pymeshlab
+Pillow
