@@ -29,8 +29,6 @@ generates new viewpoints never seen during training.
 
 ## Results
 
-## Results
-
 **3D Reconstruction**
 
 ![3D Reconstruction](results/NeRF_3D_reconstruction.gif)
