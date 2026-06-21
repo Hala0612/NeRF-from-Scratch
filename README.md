@@ -6,7 +6,7 @@ without relying on any existing NeRF library.
 ## Overview
 
 This project explores 3D scene reconstruction and novel view synthesis from a set 
-of 2D images. Given ~100 photographs of a humanoid fox character from different 
+of 2D images. Given ~90 photographs of a humanoid fox character from different 
 angles, the model learns an implicit volumetric representation of the scene and 
 generates new viewpoints never seen during training.
 
