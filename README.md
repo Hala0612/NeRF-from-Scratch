@@ -32,4 +32,7 @@ generates new viewpoints never seen during training.
 Novel view synthesis from a turntable sequence, the model successfully generates 
 coherent new viewpoints of the character from angles not present in the training set.
 
+## References 
+Inspired by the course of Maxime Vandegar
+
 ## Requirements
