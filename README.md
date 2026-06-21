@@ -45,7 +45,7 @@ Dataset from the course: https://www.udemy.com/course/nerf-neural-radiance-field
 
 ## Requirements
 
-\```
+```
 torch
 numpy
 imageio
@@ -56,4 +56,4 @@ scikit-image
 open3d
 pymeshlab
 Pillow
-\```
+```
