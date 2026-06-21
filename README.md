@@ -39,7 +39,7 @@ generates new viewpoints never seen during training.
 
 ## References 
 Inspired by the course of Maxime Vandegar
-
+Dataset from the course: https://www.udemy.com/course/nerf-neural-radiance-fields-fr/
 ## Requirements
 \```
 torch
