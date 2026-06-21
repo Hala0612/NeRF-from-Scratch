@@ -29,7 +29,7 @@ generates new viewpoints never seen during training.
 
 ## Results
 
-Novel view synthesis from a turntable sequence — the model successfully generates 
+Novel view synthesis from a turntable sequence, the model successfully generates 
 coherent new viewpoints of the character from angles not present in the training set.
 
 ## Requirements
