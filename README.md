@@ -45,7 +45,6 @@ Dataset from the course: https://www.udemy.com/course/nerf-neural-radiance-field
 
 ## Requirements
 
-## Requirements
 \```
 torch
 numpy
