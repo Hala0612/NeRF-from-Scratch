@@ -29,8 +29,15 @@ generates new viewpoints never seen during training.
 
 ## Results
 
-Novel view synthesis from a turntable sequence, the model successfully generates 
-coherent new viewpoints of the character from angles not present in the training set.
+## Results
+
+**3D Reconstruction**
+
+![3D Reconstruction](results/NeRF_3D_reconstruction.gif)
+
+**Novel View Synthesis**
+
+![Novel View 1](results/NeRF_New_View_1.gif) ![Novel View 2](results/NeRF_New_View_2.gif)
 
 ## References 
 Inspired by the course of Maxime Vandegar
