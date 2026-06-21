@@ -38,10 +38,12 @@ generates new viewpoints never seen during training.
 ![Novel View 1](results/NeRF_New_View_1.gif) ![Novel View 2](results/NeRF_New_View_2.gif)
 
 ## References 
-\```
-Inspired by the course of Maxime Vandegar
+
+Inspired by the course of [Maxime Vandegar](https://www.linkedin.com/in/maxime-vandegar/)
+
 Dataset from the course: https://www.udemy.com/course/nerf-neural-radiance-fields-fr/
-\```
+
+## Requirements
 
 ## Requirements
 \```
